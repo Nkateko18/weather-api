@@ -1,0 +1,1 @@
+// Handles the Axios POST request to your middleware at /api/weather. This is the only place that talks directly to the backend.

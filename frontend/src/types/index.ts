@@ -1,0 +1,1 @@
+//	Define custom TypeScript types like the structure of the API response or request body. Keeps types organized and reusable.

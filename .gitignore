@@ -1,0 +1,17 @@
+# Backend (Node.js/Python/etc.)
+backend/node_modules/
+frontend/node_modules/
+*.log
+.env*
+__pycache__/
+*.pyc
+
+# Frontend (React/Vue/etc.)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# General
+.DS_Store
+*.swp
+.vscode/

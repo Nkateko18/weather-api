@@ -1,0 +1,1 @@
+// Displays the translated weather description returned from the backend.
